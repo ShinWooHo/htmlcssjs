@@ -30,7 +30,7 @@ public class HtmlController {
    
    @RequestMapping("/exam03_block_inline_element")
    public String exam03BlockInlineElement() {
-	   log.info("exam03blockinlineelement() 실행");
+log.info("exam03blockinlineelement() 실행");
       return "html/exam03_block_inline_element";
    }
    
@@ -46,5 +46,11 @@ public class HtmlController {
       return "html/project_header";
    }
    
+   
+   @RequestMapping("/project_join_member_ship")
+   public String projectJoinMemberShip() {
+	   log.info("projectJoinMemberShip() 실행");
+      return "html/project_join_member_ship";
+   }
    
 }

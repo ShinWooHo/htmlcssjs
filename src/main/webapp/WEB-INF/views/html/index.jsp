@@ -25,6 +25,7 @@
 			
 			<li> <a href="html/project_footer">project_footer</a> </li>
 			<li> <a href="html/project_header">project_header</a> </li>
+			<li> <a href="html/project_join_member_ship">project_join_member_ship</a> </li>
 			
 			
 			

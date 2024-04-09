@@ -12,9 +12,9 @@
 	<hr/>
 	
 	<p>	<!-- 절대 경로 사용 -->
-		<img src="htmlcssjs/resources/image/photos/photo1.jpg" width="200"/>
+		<img src="/htmlcssjs/resources/image/photos/photo1.jpg" width="200"/>
 		<!-- 절대 경로 사용 -->
-		<img src="htmlcssjs/resources/image/photos/photo2.jpg" width="200"/>
+		<img src="/htmlcssjs/resources/image/photos/photo2.jpg" width="200"/>
 		<!-- 상대 경로 사용 --> <!-- ../(부모) -->
 		<img src="../resources/image/photos/photo3.jpg" width="200"/>
 	</p>

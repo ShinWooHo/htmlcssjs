@@ -16,7 +16,7 @@
 				function handleCheckData() {
 					console.log("입력 데이터를 검사합니다.");
 					
-					// form 태그의 action 기능을 수행하지 않도록 힘
+					// form 태그의 action 기능을 수행하지 않도록 함
 					event.preventDefault();
 					
 					// 각 입력 양식의 데이터 검사

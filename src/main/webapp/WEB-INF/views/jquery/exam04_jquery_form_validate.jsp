@@ -108,7 +108,7 @@
 					  <div class="mb-3">
 					    <label for="password" class="form-lable">Password</label>
 					    <input type="password" class="form-control" id="password" name="password" value="Abc12345"/>
-					    <span id="passwordSpan" class="form-text">알파벳 대소문자, 숫자를 혼용해서 8자 이상 15장 이하</span>
+					    <span id="passwordSpan" class="form-text">알파벳 대소문자, 숫자를 혼용해서 8자 이상 15자 이하</span>
 					  </div>
 					
 					  <div class="mb-3">
